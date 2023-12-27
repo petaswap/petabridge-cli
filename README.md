@@ -1,5 +1,5 @@
 
-# PetaBridge Core
+# PetaBridge CLI
 
 ## Global Flags
 
